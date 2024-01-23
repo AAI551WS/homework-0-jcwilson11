@@ -10,6 +10,7 @@ def hello_world():
     # Writing a second comment to test local git for commit and push
 
     # Write a Python statement to print Hello, World!
+    print("Hello, World!")
 
 def add(a,b):
 
