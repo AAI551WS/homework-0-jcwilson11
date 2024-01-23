@@ -7,6 +7,7 @@ def hello_world():
 
     # Write a comment; comments are very useful to other programmers.
     # CPE 551 S24 HW0
+    # Writing a second comment to test local git for commit and push
 
     # Write a Python statement to print Hello, World!
 
